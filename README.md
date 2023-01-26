@@ -5,4 +5,5 @@ Successfully edited in VS Code
 
 Successfully edited in github
 
-Oh no! Merge conflict!git fetch
+Oh no! Merge conflict!
+Merge conflict
